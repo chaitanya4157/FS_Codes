@@ -7,7 +7,7 @@ output=-1
 */
 import java.util.*;
 
-public class Test9 {
+public class Test09 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

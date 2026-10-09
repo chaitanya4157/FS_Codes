@@ -23,7 +23,7 @@ Binary:
 SOLUTION :
 */
 import java.util.*;
-public class Test4
+public class Test04
 {
     public static void main(String args[])
 {

@@ -21,7 +21,7 @@ output=2346785
     
 */import java.util.Scanner;
 
-public class Main {
+public class Test24 {
     public static String largestOddNumber(String s) {
         for (int i = s.length() - 1; i >= 0; i--) {
             int digit = s.charAt(i) - '0';

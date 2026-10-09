@@ -22,7 +22,7 @@ The vowels are e and o. After reversing them, the string becomes holle.
 ANSWER : 
  */
 import java.util.Scanner;
-class Test8
+class Test08
 {
     public static void main(String[] args)
 {

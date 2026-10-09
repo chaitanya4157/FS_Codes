@@ -26,7 +26,7 @@ Movement:
 
 
 import java.util.Scanner;
-class Test1
+class Test01
 {
     public static void main(String[] args) 
 {

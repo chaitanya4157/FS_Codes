@@ -18,7 +18,7 @@ SOLUTION :
 */
 import java.util.*;
 
-public class Test5 {
+public class Test05 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
